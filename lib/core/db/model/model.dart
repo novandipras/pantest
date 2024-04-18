@@ -1,0 +1,1 @@
+export 'data_saved_post_model.dart';
